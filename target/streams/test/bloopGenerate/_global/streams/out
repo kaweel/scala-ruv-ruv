@@ -1,0 +1,4 @@
+[debug] [scala-ruv-ruv-test] Classpath dependencies List()
+[debug] [scala-ruv-ruv-test] Dependencies from configurations List(scala-ruv-ruv)
+[debug] Bloop wrote the configuration of project 'scala-ruv-ruv-test' to '/Users/kaweel/Develop/kaweel/scala-ruv-ruv/.bloop/scala-ruv-ruv-test.json'
+[success] Generated .bloop/scala-ruv-ruv-test.json
