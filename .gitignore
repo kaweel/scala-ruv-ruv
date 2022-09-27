@@ -1,4 +1,2 @@
-.bloop
-.bsp
-.metals
-.vscode
+*.class
+*.log
